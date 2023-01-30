@@ -6,3 +6,4 @@ Today I learned about the basic language used on markdown applications. This is 
 
 To make a heading, all that is needed is a number sign "#" in front of your heading title. Such as, 
 # Title One.
+If you have multiple titles, you just add additional number signs that correlates with that heading title placement. For exapple, "Heading title 4" would look liked "#### Heading title 4".
