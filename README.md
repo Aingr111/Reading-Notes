@@ -1,5 +1,5 @@
 # gitready
-# **My understanding of the "Growth Mindset"
+# **My understanding of the "Growth Mindset"**
 
 Growth mindset describes how you view challenges and obstacles in your life.
 With a fixed mindset, you believe that your talents, intellect, and abilities are non-changing. 
