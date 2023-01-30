@@ -4,4 +4,5 @@ Today I learned about the basic language used on markdown applications. This is 
 
 ## Headings
 
-To make a heading, all that is needed is a number sign "#" in front of your heading title. Such as, # Title One.
+To make a heading, all that is needed is a number sign "#" in front of your heading title. Such as, 
+# Title One.
