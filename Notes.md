@@ -17,4 +17,11 @@ I also learned how to create paragraphs. To do so, you just need to create blank
 
 #### Using Emphhasis
 
+We also learned how to make text more engaging using bold and italic text. To bold text, you have to add two asterisks before and after the word or phrase that you would like to bolden. Such as, **bold**". While to italicize text, you have to add just one asterisk before and after the word or phrase that you would like to italicize. Such as, *italic*". 
+
+##### Things I want To Know More About
+
+* Color Coding
+* Backticks
+
 
