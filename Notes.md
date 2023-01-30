@@ -1,6 +1,6 @@
 # Assignment Number 2
 
-Today I learned about the basic language used on markdown applications. This is important because it's one of the foundational coding languages, so it provides a basic level of understand. I'll go a little in depth here about how to create headings, paragraphs, & creating emphasis using markdown applications. 
+Today I learned about the basic language used on markdown applications. This is important because it's one of the foundational coding languages, so it provides a basic level of understanding. I'll go a little in depth here about how to create headings, paragraphs, & creating emphasis using markdown applications. 
 
 ## Headings
 
