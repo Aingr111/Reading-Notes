@@ -13,4 +13,5 @@ However, with a growth mindset you continue to develop yourself even when faced 
 
 ### A little about me
 
-My name is Autumn, and I'm originally from Detroit, Michigan. I joined this program with the hope to start a new career as a software engineer. I am excited and a little afraid, but mostly so grateful for this oppourtnity and the support I've received. If you'd like to see more of my work, here's a link to my page. 
+My name is Autumn, and I'm originally from Detroit, Michigan. I joined this program with the hope to start a new career as a software engineer. I am excited and a little afraid, but mostly so grateful for this oppourtnity and the support I've received. If you'd like to see more of my work, here's a link to my page 
+[on gethub (https://github.com/Aingr111)
