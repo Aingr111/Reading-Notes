@@ -69,3 +69,7 @@ Lists the content of a directory, includeing hidden files.
 **Linux is an extensionless system** 
 
 **Linux is case sensitive**
+
+## Things I Want To Know More About
+
+Basic navigation 
