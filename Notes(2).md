@@ -54,3 +54,18 @@ A file or directory location relative to where we currently are in the file syst
 
 A file or directory location in relation to the root of the file system. 
 
+# More About Files
+
+## What does the "file" command do?
+
+Obtains info about what type a file, a file or directory is. Ie, img, text, etc.
+
+## What does the " ls -a" command do?
+
+Lists the content of a directory, includeing hidden files.
+
+**Everything is a file under Linux, even directories, images, text**
+
+**Linux is an extensionless system** 
+
+**Linux is case sensitive**
