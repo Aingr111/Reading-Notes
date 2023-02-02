@@ -9,6 +9,6 @@ This site will be a place to store my notes, labs, and questions I ay have while
 
 Table Of Contents 
 
-[102](/READING-NOTES/102/)
+[102](/Reading-Notes/102/)
 
-[201](/READING-NOTES/201/)
+[201](/Reading-Notes/201/)
