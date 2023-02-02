@@ -1,8 +1,12 @@
+ 
  # Git Intro Notes
+
 
  ## What is version Control?
 
+
  Version control is like a database that stores current and past versions of a file.
+ 
 
  ### What are the differences between local version control, centralized version control, and Distributed version control?
 
@@ -16,7 +20,7 @@
 
  Files  will be marked in git to tell you the status. If a file has been committed, it is stored in a local database. However if there is a "M" next to the file..it has been changed/modified and hasn't been committed/saved just yet.
 
- ##### How do you set up a Git Repo? 
+ ###### How do you set up a Git Repo? 
 
  You can either import your file/directory or you can clone an existing repo. 
 
