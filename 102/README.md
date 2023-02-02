@@ -2,9 +2,13 @@
 
 [Class01](/Reading-Notes/102/Class01/)
 
+[Lab01](/Reading-Notes/102/Class01/Lab01/)
+
 [Class02](/Reading-Notes/102/Class02/)
 
 [Class03](/Reading-Notes/102/Class03/)
+
+[Lab03](/Reading-Notes/102/Class03/Lab03/)
 
 [Class04](/Reading-Notes/102/Class04/)
 
