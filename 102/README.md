@@ -4,10 +4,19 @@
 
 [Class02](/READING-NOTES/102/Class02/)
 
-[Class03](C:\Users\Autumn\Documents\New folder\Reading-Notes\102\Class03\README.md)
+[Class03](/READING-NOTES/102/Class03/)
 
-[Class04](C:\Users\Autumn\Documents\New folder\Reading-Notes\102\Class04\README.md)
+[Class04](/READING-NOTES/102/Class04/)
 
-[Class05](C:\Users\Autumn\Documents\New folder\Reading-Notes\102\Class05\README.md)
+[Class05](/READING-NOTES/102/Class05/)
+
+[Class06](/READING-NOTES/102/Class06/)
+
+[Class07](/READING-NOTES/102/Class07/README.md/)
+
+[Class08](/READING-NOTES/102/Class08/)
+
+[Class01](102\Class01)
+)
 
 []
