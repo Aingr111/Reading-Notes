@@ -6,7 +6,7 @@
 
 
  Version control is like a database that stores current and past versions of a file.
- 
+
 
  ### What are the differences between local version control, centralized version control, and Distributed version control?
 
@@ -24,6 +24,6 @@
 
  You can either import your file/directory or you can clone an existing repo. 
 
- ###### What are the steps to saving, and uploading a file?
+ ####### What are the steps to saving, and uploading a file?
 
  First, you want to save your file after you've modified it in any way. Then you want to head over to github desktop and write what changes you made and why. After yoyu want to commit changes and then you want to "push" those changes to your website.
