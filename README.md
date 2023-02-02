@@ -9,7 +9,7 @@ This site will be a place to store my notes, labs, and questions I ay have while
 
 Table Of Contents 
 
-[102](C:\Users\Autumn\Documents\New folder\Reading-Notes\102)
+[102](/READING-NOTES/102/)
 
 [201](C:\Users\Autumn\Documents\New folder\Reading-Notes\201)
  
