@@ -30,4 +30,4 @@ Files  will be marked in git to tell you the status. If a file has been committe
 
 ## Things I want to know more about
 
- Using the command line to access files, create repos, and other file management 
+ Using the command line to access files, create repos, and other file management.
